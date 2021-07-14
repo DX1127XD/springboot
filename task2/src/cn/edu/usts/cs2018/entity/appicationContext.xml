@@ -1,0 +1,13 @@
+<!-- 定义第1个Bean,通过无参构造方法实例化  -->
+<bean id="course1" class="cn.edu.usts.cn.edu.usts.cs2018.entity.Customer" >
+</bean>
+
+<bean id="course2" class="cn.edu.usts.cn.edu.usts.cs2018.entity.Customer" >
+<!-- 为setter方法提供参数  -->
+<property name="id">
+    <value>201</value>
+</property>
+<property name="courseName">
+    <value>C++ Prime</value>
+    </property>
+</bean>

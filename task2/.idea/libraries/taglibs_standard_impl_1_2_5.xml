@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="taglibs-standard-impl-1.2.5">
+    <CLASSES>
+      <root url="jar://D:/JAVAEE_DEV/jar/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://D:/JAVAEE_DEV/jar/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="file://D:/JAVAEE_DEV/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/compat/src/main/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/impl/src/main/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/impl/src/test/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/jstlel/src/main/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/jstlel/src/test/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/spec/src/main/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/spec/src/test/java" />
+      <root url="file://D:/JAVAEE_DEV/jar/taglibs-standard-1.2.5/standard-test/src/test/java" />
+      <root url="file://D:/JAVAEE_DEV/jar" />
+    </SOURCES>
+    <jarDirectory url="file://D:/JAVAEE_DEV/jar" recursive="false" />
+    <jarDirectory url="file://D:/JAVAEE_DEV/jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
